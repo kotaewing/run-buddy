@@ -42,7 +42,9 @@
     font-weight: lighter;
     font-size: 22px;
   }
-  
+  /* End Header */
+
+  /* Begin Footer */
   footer {
     background: #fce138;
     width: 100%;
@@ -65,6 +67,8 @@
   footer a {
     color: #024e76;
   }
+
+  /* End Footer */
   
   section {
     padding: 60px;
@@ -80,6 +84,7 @@
   }
   /* Hero Style End */
   
+  /* Hero Form Start */
   .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
@@ -120,7 +125,9 @@
     padding: 10px 20px;
     font-size: 16px;
   }
-  
+  /* Hero Form End */
+
+  /* What We Do */
   .intro {
     text-align: center;
   }
@@ -133,6 +140,7 @@
     margin: 0 auto;
   }
   
+  /* What You Do start */
   .steps {
     text-align: center;
     background: #fce138;
@@ -161,8 +169,10 @@
   .steps span {
     font-size: 38px;
   }
+/* What You DO end */
   
-  .section-title {
+  /* Trainers Section  */
+.section-title {
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
@@ -225,7 +235,9 @@
   .text-right {
     text-align: right;
   }
+/* End Trainers */
 
+/* Contact Start */
   .contact {
     text-align: center;
     background-color: #024e76;
@@ -264,3 +276,4 @@
 .contact-info a {
   color: #fce138;
 }
+/* Contact End */
